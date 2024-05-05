@@ -1,0 +1,11 @@
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\GenerateHash.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\GenerateHash.AssemblyInfoInputs.cache
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\GenerateHash.AssemblyInfo.cs
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\GenerateHash.csproj.CoreCompileInputs.cache
+C:\Users\ex3ti\RiderProjects\GenerateHash\bin\Debug\net8.0\GenerateHash.deps.json
+C:\Users\ex3ti\RiderProjects\GenerateHash\bin\Debug\net8.0\GenerateHash.dll
+C:\Users\ex3ti\RiderProjects\GenerateHash\bin\Debug\net8.0\GenerateHash.pdb
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\GenerateHash.dll
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\refint\GenerateHash.dll
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\GenerateHash.pdb
+C:\Users\ex3ti\RiderProjects\GenerateHash\obj\Debug\net8.0\ref\GenerateHash.dll
